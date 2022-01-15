@@ -1,1 +1,5 @@
-# I do not own any of these assest and sound files, they are being used for education reasons to learn about HTML5. Thank you
+A fully featured tower defense game built with &lt;canvas&gt;. https://canvas-td.teddy.io
+
+---
+
+© 2017 [Teddy Cross](https://teddy.io), shared under the [MIT license](https://opensource.org/licenses/MIT).
